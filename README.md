@@ -12,7 +12,6 @@ GENERAL INFORMATION
 
 4. Geographic location of data collection: Georgia, U.S.A. 
 
-
 SHARING/ACCESS INFORMATION
 
 1. Licenses/restrictions placed on the data: Creative Commons Attribution 4.0 International License
@@ -22,9 +21,23 @@ SHARING/ACCESS INFORMATION
 DATA & FILE OVERVIEW
 
 1. File List: 
-Model_Traffic_Analysis_Zones_2010.csv 
+Model_Traffic_Analysis_Zones_2010.cpg
+Model_Traffic_Analysis_Zones_2010.csv
+<contains modeled traffic zone idenfifiers and information>
+Model_Traffic_Analysis_Zones_2010.dbf
+Model_Traffic_Analysis_Zones_2010.prj
+Model_Traffic_Analysis_Zones_2010.shp
+<contains modeled traffic zone polygons>
+Model_Traffic_Analysis_Zones_2010.shx
 
-2. Relationship between files, if important: 
+2. Relationship between files: 
+Model_Traffic_Analysis_Zones_2010.cpg
+Model_Traffic_Analysis_Zones_2010.dbf
+Model_Traffic_Analysis_Zones_2010.prj
+Model_Traffic_Analysis_Zones_2010.shx
+
+must be downloaded along with Model_Traffic_Analysis_Zones_2010.shp to use in mapping software.
+
 
 3. Additional related data collected that was not included in the current data package: 
 
