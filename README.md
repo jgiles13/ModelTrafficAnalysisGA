@@ -33,10 +33,8 @@ must be downloaded along with Model_Traffic_Analysis_Zones_2010.shp to use in ma
 
 DATA-SPECIFIC INFORMATION:
 
-1. Number of variables: 8
-
-2. Number of rows: 5,874
-
+1. Number of variables: 8  
+2. Number of rows: 5,874  
 3. Variable List: 
 MTAZ10: 2010 ARC Model TAZ number  
 CTAZ10: 2010 Census TAZ number  
@@ -46,7 +44,10 @@ SD10: 2010 ARC Superdistrict number
 FIPS: County FIPS code  
 COUNTY: County name  
 ACRES: Area in acres  
-
 4. Specialized formats or other abbreviations used:
+ARC: Atlanta Regional Commission  
+TAZ: Traffic Analysis Zone  
+FIPS: Federal Information Processing Standard  
+TAD: Traffic Analysis District  
 
 
