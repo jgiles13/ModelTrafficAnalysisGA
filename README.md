@@ -31,7 +31,7 @@ Model_Traffic_Analysis_Zones_2010.prj
 Model_Traffic_Analysis_Zones_2010.shx  
 must be downloaded along with Model_Traffic_Analysis_Zones_2010.shp to use in mapping software.  
 
-DATA-SPECIFIC INFORMATION:
+DATA-SPECIFIC INFORMATION
 
 1. Number of variables: 8  
 2. Number of rows: 5,874  
