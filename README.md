@@ -31,22 +31,22 @@ Model_Traffic_Analysis_Zones_2010.prj
 Model_Traffic_Analysis_Zones_2010.shx  
 must be downloaded along with Model_Traffic_Analysis_Zones_2010.shp to use in mapping software.  
 
-METHODOLOGICAL INFORMATION
+DATA-SPECIFIC INFORMATION:
 
-1. Description of methods used for collection/generation of data: 
-<Include links or references to publications or other documentation containing experimental design or protocols used in data collection>
+1. Number of variables: 8
 
-2. Methods for processing the data: 
-<describe how the submitted data were generated from the raw or collected data>
+2. Number of rows: 5,874
 
-3. Instrument- or software-specific information needed to interpret the data: 
-<include full name and version of software, and any necessary packages or libraries needed to run scripts>
+3. Variable List: 
+MTAZ10: 2010 ARC Model TAZ number  
+CTAZ10: 2010 Census TAZ number  
+TRACT10: 2010 Census Tract number  
+TAD10: 2010 Census TAD number  
+SD10: 2010 ARC Superdistrict number  
+FIPS: County FIPS code  
+COUNTY: County name  
+ACRES: Area in acres  
 
-4. Standards and calibration information, if appropriate: 
+4. Specialized formats or other abbreviations used:
 
-5. Environmental/experimental conditions: 
-
-6. Describe any quality-assurance procedures performed on the data: 
-
-7. People involved with sample collection, processing, analysis and/or submission: 
 
