@@ -18,12 +18,10 @@ DATA & FILE OVERVIEW
 
 1. File List:  
 Model_Traffic_Analysis_Zones_2010.cpg  
-Model_Traffic_Analysis_Zones_2010.csv  
-<contains modeled traffic zone identifiers and information>  
+Model_Traffic_Analysis_Zones_2010.csv: contains modeled traffic zone identifiers and information
 Model_Traffic_Analysis_Zones_2010.dbf  
 Model_Traffic_Analysis_Zones_2010.prj  
-Model_Traffic_Analysis_Zones_2010.shp  
-<contains modeled traffic zone polygons>  
+Model_Traffic_Analysis_Zones_2010.shp: contains modeled traffic zone polygons  
 Model_Traffic_Analysis_Zones_2010.shx  
 
 2. Relationship between files:  
